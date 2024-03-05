@@ -3,7 +3,5 @@
 - Task 1: Python Script for Web Scraping and Automation.
 - Task 2: Python Script for Data Processing.
 
-<h1 align=left> How to run task 1:</h1>
-<h1 align=left>How to run task 2:</h1>
 
  
